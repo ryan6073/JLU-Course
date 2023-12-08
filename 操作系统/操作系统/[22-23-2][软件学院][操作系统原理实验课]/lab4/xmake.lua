@@ -1,0 +1,5 @@
+set_languages("c11")
+add_includedirs("include")
+target("file_system")
+    set_kind("binary")
+    add_files("src/*.c")

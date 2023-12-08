@@ -1,0 +1,5 @@
+set_languages("c11")
+add_includedirs("include")
+target("device_management")
+    set_kind("binary")
+    add_files("src/*.c")
