@@ -1,0 +1,2 @@
+E:\Microsoft Visual Studio Project\QChatClient\x64\Debug\QChatClient.exe
+G:\Code\QChatRoom-JZW\QChatClient\x64\Debug\QChatClient.exe

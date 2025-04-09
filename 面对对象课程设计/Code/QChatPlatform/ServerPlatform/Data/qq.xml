@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllData>
+    <qq birth="" password="5521" register="2022-10-17" identification="55210425" number="0425" name="阿顺" address="长春">
+        <friend remark="小黎" number="0426"/>
+    </qq>
+    <qq birth="" password="5521" register="2022-10-17" identification="55210426" number="0426" name="黎旸" address="迪拜">
+        <friend remark="阿顺" number="0425"/>
+    </qq>
+    <qq birth="" password="5521" register="2022-10-17" identification="55210423" number="0423" name="user" address=""/>
+</AllData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaseInfo_Zhujs">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAACAEAAAAAABAgBAAAAAAAABAAAIACCAAAAAAA=</HashCode>
+      <FileName>baseinfo_Zhujs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataHandler">
+    <Position X="12.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUBAIAAAABggAAAACAAABAABBJBgAMJCoAIAAAIAAA=</HashCode>
+      <FileName>datahandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupInfo_Zhujs">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAgAQAABAAAAAAAABACAAAAAAAAAAQAAAI=</HashCode>
+      <FileName>C:\Users\拯救者R7000P\Desktop\groupinfo_Zhujs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QQGroup_Zhujs">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAAAAAEAAABABAAAAAAAAUAQAAAA=</HashCode>
+      <FileName>C:\Users\拯救者R7000P\Desktop\groupinfo_Zhujs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MainWindow">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>x64\Debug\uic\ui_mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindow">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAAAAAQAAAECIAFAgEAYAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QQInfo_Zhujs">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAYQEAABAAMBAAAAAAAAAFAAABEACAAAIA=</HashCode>
+      <FileName>qqinfo_Zhujs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeChatInfo_Zhujs">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAgAAAAAABQAIAAAAAAAAAEEAAAAEAAgAIAA=</HashCode>
+      <FileName>wechatinfo_Zhujs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Function">
+    <Position X="14.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAgAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>datahandler.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

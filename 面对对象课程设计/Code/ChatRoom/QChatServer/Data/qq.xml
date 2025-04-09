@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllData>
+    <qq identification="" name="user" number="1115269025" password="704007380" register="2022-10-15" birth="" address=""/>
+    <qq identification="321283999" name="焦志伟" number="1" password="222" register="2022-10-15" birth="2022-10-10" address="南京-江宁">
+        <friend number="2" remark="@ZXY"/>
+    </qq>
+    <qq identification="" name="@ZXY" number="2" password="2" register="2022-10-15" birth="" address="">
+        <friend number="1" remark="焦志伟"/>
+    </qq>
+    <qq identification="" name="user" number="3" password="3" register="2022-10-15" birth="" address=""/>
+    <qq identification="" name="user" number="4" password="4" register="2022-10-15" birth="" address=""/>
+</AllData>

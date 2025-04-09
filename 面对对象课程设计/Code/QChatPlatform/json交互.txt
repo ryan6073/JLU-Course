@@ -1,0 +1,74 @@
+注册
+QVariantMap map;
+    map["function"] = "qq";
+    map["operation"] = "register";
+    map["account"] = account;
+    map["password"] = password;
+    map["date"] = QDate::currentDate().toString("yyyy-MM-dd");
+
+登录
+QVariantMap map;
+    map["function"] = "qq";
+    map["operation"] = "login";
+    map["account"] = account;
+    map["password"] = password;
+
+添加好友
+QVariantMap map;
+            map["function"] = "qq";
+            map["operation"] = "append";
+            map["account"] = currentUser;
+            map["friend"] = number;
+
+删除好友
+QVariantMap map;
+        map["function"] = "qq";
+        map["operation"] = "delete";
+        map["account"] = currentUser;
+        map["friend"] = ui->treeWidget->currentItem()->text(0);
+
+修改好友
+QVariantMap map;
+        map["function"] = "qq";
+        map["operation"] = "alter";
+        map["account"] = currentUser;
+        map["friend"] = ui->treeWidget->currentItem()->text(0);
+        map["remark"] = ui->treeWidget->currentItem()->text(1);
+
+获取好友列表
+QVariantMap map;
+        map["function"] = "qq";
+        map["operation"] = "get";
+        map["account"] = currentUser;
+
+查询个人信息
+QVariantMap map;
+        map["function"] = "qq";
+        map["operation"] = "query";
+        map["account"] = currentUser;
+
+QString number = map["number"].toString();
+                QString name = map["name"].toString();
+                QString birth = map["birth"].toString();
+                QString date = map["date"].toString();
+                QString place = map["place"].toString();
+
+更新个人信息
+QVariantMap map;
+    map["function"] = "qq";
+    map["operation"] = "update";
+    map["account"] = number;
+    map["password"] = password;
+    map["name"] = name;
+    map["identification"] = identification;
+    map["birth"] = birth;
+    map["date"] = date;
+    map["place"] = place;
+
+聊天
+QVariantMap map;
+        map["function"] = "qq";
+        map["operation"] = "chat";
+        map["account"] = currentUser;
+        map["friend"] = currentFriend->text(0);
+        map["message"]=ui->lineEditFriendSend->text();

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/mysql" auth="Container"
+              type="javax.sql.DataSource" driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/tinydatabase?characterEncoding=utf8"
+              username="root" password="shy2001625" maxTotal="20" maxIdle="10"
+              maxWaitMillis="-1"/>
+</Context>

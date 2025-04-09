@@ -1,0 +1,20 @@
+﻿  date.cpp
+  entry.cpp
+G:\55210425-朱家顺-源程序\entry.cpp(361,5): warning C4102: “here”: 未引用的标签
+  system_custom.cpp
+  system_money.cpp
+  system_checkstand.cpp
+G:\55210425-朱家顺-源程序\system_checkstand.cpp(820,18): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“double *”
+G:\55210425-朱家顺-源程序\system_checkstand.cpp(1060,66): warning C4552: ”!=“: 未使用表达式结果
+G:\55210425-朱家顺-源程序\system_checkstand.cpp(1161,79): warning C4552: ”!=“: 未使用表达式结果
+  system_stockmanagement.cpp
+G:\55210425-朱家顺-源程序\system_stockmanagement.cpp(10,1): warning C4005: “stock_warning”: 宏重定义
+G:\55210425-朱家顺-源程序\system_stockmanagement.h(15): message : 参见“stock_warning”的前一个定义
+G:\55210425-朱家顺-源程序\system_stockmanagement.cpp(11,1): warning C4005: “time_warning”: 宏重定义
+G:\55210425-朱家顺-源程序\system_stockmanagement.h(16): message : 参见“time_warning”的前一个定义
+G:\55210425-朱家顺-源程序\system_stockmanagement.cpp(425,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  源.cpp
+  正在生成代码...
+G:\55210425-朱家顺-源程序\system_checkstand.cpp(962): warning C4715: “goods_buying”: 不是所有的控件路径都返回值
+G:\55210425-朱家顺-源程序\system_checkstand.cpp(1159): warning C4700: 使用了未初始化的局部变量“pmove”
+  超市管理系统.vcxproj -> G:\55210425-朱家顺-源程序\x64\Debug\超市管理系统.exe

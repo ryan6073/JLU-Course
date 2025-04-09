@@ -1,0 +1,2 @@
+E:\Microsoft Visual Studio Project\ClientPlatform\x64\Debug\ClientPlatform.exe
+C:\Users\拯救者R7000P\Desktop\QChatPlatform\ClientPlatform\x64\Debug\ClientPlatform.exe
